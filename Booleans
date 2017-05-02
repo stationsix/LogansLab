@@ -1,0 +1,3 @@
+var height = 65;
+var heightR = 60;
+height > heightR;
