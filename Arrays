@@ -1,0 +1,20 @@
+var fish = [
+"Bass", 
+"Pike",
+"Walleye",
+"Perch",
+"Bluegill",
+"Sunfish",
+"Swordfish",
+"Shark",
+"Tiger Shark"
+];
+var dogs = [
+"Golden Retriever",
+"Chihuahua",
+"Black Lab",
+"Poodle",
+];
+
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.pop();
